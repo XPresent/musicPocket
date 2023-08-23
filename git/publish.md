@@ -1,0 +1,4 @@
+##### #. 登录需要邮箱接收验证码；以 package.json name 命名发布；私有包命名带统一 namespace 前缀 @xpresent/[pkg name]。
+##### npm config set registry https://registry.npmjs.org
+##### npm adduser
+##### npm publish .
