@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 14,
+
+  // format
+  "javascript.format.semicolons": "insert",
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
+
+  //plugin
+  "search-node-modules.path": "CMClient\\template\\node_modules"
+}
