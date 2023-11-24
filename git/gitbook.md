@@ -1,23 +1,18 @@
 ##### #、命令
 
 安装gitbook  
-
 `npm install gitbook-cli -g`
 
 初始化书籍  
-
 `gitbook init`
 
 安装依赖  
-
 `gitbook install`
 
 预览  
-
 `gitbook serve`
 
 编译打包  
-
 `gitbook build`
 
 ##### #、问题
