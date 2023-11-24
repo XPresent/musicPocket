@@ -1,4 +1,4 @@
-###### 命令
+##### #、命令
 
 安装gitbook  
 
@@ -20,7 +20,7 @@
 
 `gitbook build`
 
-###### 问题
+##### #、问题
 
 1、使用 `gitbook build`（node v13.14.0）打包報錯 `Error: ENOENT: no such file or directory, stat xxx`
 
