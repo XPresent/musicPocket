@@ -5,6 +5,8 @@
 
 npm config set registry https://registry.npmjs.org
 
-npm adduser
+npm adduser // node 18.18.0 跳浏览器验证
 
 npm publish .
+
+npm unpublish xpresent-editor --force
