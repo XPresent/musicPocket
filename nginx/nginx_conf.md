@@ -34,5 +34,6 @@
   # Third-party cookie will be blocked
   response header:
   Set-Cookie  xxx;Secure;SameSite=None
+  注意: IE <= IE10 不支持 SameSite=None
 
 ```
